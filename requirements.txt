@@ -1,0 +1,16 @@
+streamlit
+opencv-python
+Pillow
+numpy
+matplotlib
+tensorflow
+scikit-learn
+gdown
+pandas
+torch
+torchvision
+transformers
+huggingface_hub
+vit-pytorch
+scipy
+scikit-learn
